@@ -33,7 +33,7 @@ If you choose to enable it:
 
 Backed up fields include contact names, phone numbers, notes, and contact metadata.
 
-You can disable backup or delete your data at any time by signing out from within the app.
+You can disable backup, delete your cloud backup, or permanently delete your account and associated cloud data at any time from within the app settings.
 
 ---
 
@@ -73,6 +73,8 @@ You are in full control of your data:
 
 * Delete any contact at any time
 * Disable cloud backup in Settings
+* Delete your cloud backup at any time
+* Permanently delete your account and associated cloud data
 * Sign out from backup services at any time
 * Uninstall the app to remove all local data from your device
 
