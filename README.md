@@ -1,6 +1,6 @@
 # SideContacts Privacy Policy
 
-Last updated: May 2026
+Last updated: August 2026
 
 SideContacts is designed to help you manage secondary and temporary contacts privately and securely. This policy explains what data the app accesses, how it is used, and how it is protected.
 
@@ -50,6 +50,17 @@ The app uses the system dialer (ACTION_DIAL) for outgoing calls. No CALL_PHONE p
 
 ---
 
+## Contacts Permission (READ_CONTACTS)
+
+SideContacts requests access to your phone's Contacts to power the optional **Import from Contacts** feature, which lets you select existing numbers from your phone's contacts app to add as secondary contacts inside SideContacts.
+
+* Access is requested only when you choose to use Import from Contacts, and only after an in-app explanation screen — never on app startup
+* You select which contacts to import; nothing is imported automatically
+* Imported contacts are copied into SideContacts' own local database (and, if cloud backup is enabled, your encrypted backup) — your phone's system Contacts app is never modified
+* Your phone's contacts book itself is never uploaded, sold, or shared with any third party — only the specific contacts you choose to import are stored, as SideContacts data
+
+---
+
 ## WhatsApp Integration
 
 The app can open a WhatsApp chat using a saved phone number via a standard system URL. No WhatsApp messages are read, stored, or transmitted by the app.
@@ -74,7 +85,7 @@ You are in full control of your data:
 * Delete any contact at any time
 * Disable cloud backup in Settings
 * Delete your cloud backup at any time
-* Permanently delete your account and associated cloud data
+* Permanently delete your account and associated cloud data — from within the app (Settings → Privacy & Backup → Delete account & cloud data), or without the app installed via our [account deletion page](https://akshaykumar9762.github.io/sidecontacts-privacy/delete-account.html)
 * Sign out from backup services at any time
 * Uninstall the app to remove all local data from your device
 
@@ -91,4 +102,3 @@ This policy may be updated to reflect app changes or legal requirements. The "La
 Questions or support requests:
 
 [sidecontacts.app@gmail.com](mailto:sidecontacts.app@gmail.com)
-# sidecontacts-privacy
